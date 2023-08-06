@@ -36,3 +36,6 @@ Start the server
   python manage.py runserver
 ```
 
+Preview
+![image](https://github.com/deepanshu112233/HelloBuddy/assets/114103471/720edfaf-f7b3-4d70-9678-ea6a44a81734)
+
