@@ -11,7 +11,7 @@ be the part of a discussion.
 ## Documentation
 Install the Django in your PC by referring the
 [Django Documentation Here](https://docs.djangoproject.com/en/4.2/)
-
+Must read the requirements.txt
 
 
 
